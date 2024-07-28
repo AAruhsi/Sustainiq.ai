@@ -25,15 +25,14 @@ const Hero = () => {
   return (
     <div className="w-full text-center px-4 h-[80vh] flex flex-col items-center gap-5 justify-center">
       <h1 className="text-4xl 600px:text-5xl font-extrabold">
-        Revolutionize Your Goal Setting with AI
+        Smart Solutions for Sustainable Energy Usage
       </h1>
       <p className="max-w-[50rem] text-sm 600px:text-lg ">
-        SetGoals.ai leverages cutting-edge AI technology to help you set, track,
-        and achieve your goals in just 30 days. Transform your aspirations into
-        reality with personalized guidance and intelligent insights. Build a
-        comprehensive 30-day plan and receive daily support through our
-        interactive chat feature, ensuring you stay on track every step of the
-        way
+        Harness the power of our web app to transform your energy habits.By
+        providing details on your current usage,you'll recieve a personalized
+        plan with effective alternatives for reducing your environmental
+        impact.Achieve greater effciency and sustainability with expert guidance
+        from our interactive platform.
       </p>
       <div>
         <Button
@@ -41,7 +40,7 @@ const Hero = () => {
           className="flex items-center uppercase gap-1 "
           onClick={handleRedirection}
         >
-          set your first goal <WiDirectionUpRight size={25} />
+          get your sustainability plan <WiDirectionUpRight size={25} />
         </Button>
       </div>
     </div>

@@ -12,9 +12,8 @@ import CustomProgress from "./CustomProgress";
 
 const inter = Inter({ subsets: ["latin"] });
 export const metadata: Metadata = {
-  title: "GetGoals.ai",
-  description:
-    "An Application which can help you to create and achieve your goals!",
+  title: "Sustainiq.ai",
+  description: "An Application which can help you to use energy efficiently!",
 };
 
 export default function RootLayout({
