@@ -29,7 +29,7 @@ const Hero = () => {
       </h1>
       <p className="max-w-[50rem] text-sm 600px:text-lg ">
         Harness the power of our web app to transform your energy habits.By
-        providing details on your current usage,you'll recieve a personalized
+        providing details on your current usage,you all recieve a personalized
         plan with effective alternatives for reducing your environmental
         impact.Achieve greater effciency and sustainability with expert guidance
         from our interactive platform.
