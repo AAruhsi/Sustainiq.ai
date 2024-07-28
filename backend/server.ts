@@ -17,6 +17,7 @@ app.use(
     origin: [
       "https://30-days-goal.vercel.app",
       "https://goalsetterapp-five.vercel.app",
+      "https://sustainiq-ai.vercel.app/",
     ],
     credentials: true,
   })
