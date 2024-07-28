@@ -9,7 +9,7 @@ interface ICredentials {
 export const authApi = createApi({
   reducerPath: "authApi",
   baseQuery: fetchBaseQuery({
-    baseUrl: "https://three0daysgoal.onrender.com/api/v1/",
+    baseUrl: "https://sustainiq-ai-1.onrender.com/api/v1/",
   }),
   endpoints: (builder) => ({
     register: builder.mutation<any, any>({
